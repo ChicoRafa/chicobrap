@@ -16,6 +16,7 @@ Página de inicio, política de privacidad y términos de servicio para registra
 | Página de inicio / App website | `https://chicorafa.github.io/chicobrap/` |
 | Política de privacidad / Privacy Policy URL | `https://chicorafa.github.io/chicobrap/privacidad.html` |
 | Términos de servicio / Terms of Service URL | `https://chicorafa.github.io/chicobrap/terminos.html` |
+| Eliminación de datos / Data deletion URL | `https://chicorafa.github.io/chicobrap/eliminar-datos.html` |
 | Redirect URI (TikTok, Meta) | `https://chicorafa.github.io/chicobrap/callback.html` |
 
 ## Notas
